@@ -28,7 +28,6 @@ namespace GameScoring.Application
         private IConsistsOf scorerEngine;
         private Scorecard scorecard;
         private ConsoleGameRunner consolerunner;
-        // Comment for brach git test.
         public Bowling()
         {
             // standard rules game
