@@ -28,7 +28,6 @@ namespace GameScoring.Application
         private IConsistsOf scorerEngine;
         private Scorecard scorecard;
         private ConsoleGameRunner consolerunner;
-        // Add 1 comment
         public Bowling()
         {
             // standard rules game
